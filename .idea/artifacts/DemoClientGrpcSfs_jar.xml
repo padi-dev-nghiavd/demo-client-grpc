@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DemoClientGrpcSfs:jar">
+    <output-path>$USER_HOME$/SmartFoxServer_2X/SFS2X/extensions/ClientGrpcExt</output-path>
+    <root id="archive" name="DemoClientGrpcSfs-extension.jar">
+      <element id="module-output" name="DemoClientGrpcSfs" />
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>
